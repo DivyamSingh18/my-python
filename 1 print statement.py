@@ -24,4 +24,7 @@ print("Hello", "how are u?",, sep="-")  # output >> Hello-how are u?
 print("hello","ji",'kaise',"ho?", end ='END\n')   # output >> hello ji kaise ho?END
 # if in end argument , u dont use \n then the cursor wont move into the next line
 
+print('hello, it's Divyam here') # this throws error
+print('hello, it\'s Divyam here') # this doesnt throw error (\ is used to escape special characters)
+
 
