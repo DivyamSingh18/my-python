@@ -15,9 +15,10 @@
 
 print("hello world")   # prints or displays "hello world"
 print('hello world')  # does the same as above
-print(5)
+print(5)  # output >> 5
 x = 'byye'
-print(x)
+print(x) # >> byye
+print(3*2) # output >> 6
 
 print("Hello", "how are u?",, sep="-")  # output >> Hello-how are u?
 
