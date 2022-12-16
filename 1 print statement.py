@@ -18,3 +18,10 @@ print('hello world')  # does the same as above
 print(5)
 x = 'byye'
 print(x)
+
+print("Hello", "how are u?",, sep="-")  # output >> Hello-how are u?
+
+print("hello","ji",'kaise',"ho?", end ='END\n')   # output >> hello ji kaise ho?END
+# if in end argument , u dont use \n then the cursor wont move into the next line
+
+
