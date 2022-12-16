@@ -21,7 +21,7 @@ w = float("4.2") # w will be 4.2
 the conversion of one data type into the other data type is known as type casting in python or type conversion in python. Python supports a wide
 variety of functions or methods like: int(), float(), str(), ord(), hex(), oct(), tuple(), set(), list(), dict(), etc. for the type casting in python.
 
-There are two varieties of typecasting in python namely 
+There are two varieties of typecasting in python:
     1. Explicit Conversion(Explicit type casting in python) 
     2. Implicit Conversion(Implicit type casting in python)
 
